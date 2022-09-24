@@ -17,5 +17,7 @@ public class Reverse {
 		   
 	   }
 	   System.out.println(j);
+	   System.out.println(j);
+	   System.out.println("gffg");
 	   }
 	}
